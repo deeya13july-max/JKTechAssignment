@@ -28,8 +28,6 @@ Features
 
 2 Node.js – Runtime
 
-3 Ajv – JSON schema validation
-
  Project Structure
 .
 ├── tests/
